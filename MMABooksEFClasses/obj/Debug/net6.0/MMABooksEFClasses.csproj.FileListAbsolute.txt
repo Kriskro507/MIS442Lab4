@@ -1,0 +1,47 @@
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\mySqlSettings.json
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\mySqlSettingsExample.json
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.deps.json
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.runtimeconfig.json
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.pdb
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.csproj.AssemblyReference.cache
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.AssemblyInfoInputs.cache
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.AssemblyInfo.cs
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.csproj.CoreCompileInputs.cache
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\refint\MMABooksEFClasses.dll
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.pdb
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.genruntimeconfig.cache
+C:\Courses\CS234N\StartingFiles\EFCoreImplementation\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\ref\MMABooksEFClasses.dll
+C:\Active\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\mySqlSettings.json
+C:\Active\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.deps.json
+C:\Active\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.runtimeconfig.json
+C:\Active\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.dll
+C:\Active\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.pdb
+C:\Active\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.csproj.AssemblyReference.cache
+C:\Active\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Active\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.AssemblyInfoInputs.cache
+C:\Active\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.AssemblyInfo.cs
+C:\Active\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.csproj.CoreCompileInputs.cache
+C:\Active\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.sourcelink.json
+C:\Active\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.dll
+C:\Active\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\refint\MMABooksEFClasses.dll
+C:\Active\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.pdb
+C:\Active\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.genruntimeconfig.cache
+C:\Active\Lab4 - EFCoreImplementation_StarterFiles\Lab4 - EFCoreImplementation_StarterFiles\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\ref\MMABooksEFClasses.dll
+C:\Active\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\mySqlSettings.json
+C:\Active\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.deps.json
+C:\Active\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.runtimeconfig.json
+C:\Active\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.dll
+C:\Active\MMABooksEFCore2022\MMABooksEFClasses\bin\Debug\net6.0\MMABooksEFClasses.pdb
+C:\Active\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.csproj.AssemblyReference.cache
+C:\Active\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Active\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.AssemblyInfoInputs.cache
+C:\Active\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.AssemblyInfo.cs
+C:\Active\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.csproj.CoreCompileInputs.cache
+C:\Active\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.dll
+C:\Active\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\refint\MMABooksEFClasses.dll
+C:\Active\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.pdb
+C:\Active\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\MMABooksEFClasses.genruntimeconfig.cache
+C:\Active\MMABooksEFCore2022\MMABooksEFClasses\obj\Debug\net6.0\ref\MMABooksEFClasses.dll
